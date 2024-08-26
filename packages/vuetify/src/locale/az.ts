@@ -36,15 +36,15 @@ export default {
     divider: 'to',
   },
   datePicker: {
-    itemsSelected: '{0} selected',
+    itemsSelected: '{0} seçilib',
     range: {
-      title: 'Select dates',
-      header: 'Enter dates',
+      title: 'Tarixləri seçin',
+      header: 'Tarixləri daxil edin',
     },
-    title: 'Select date',
-    header: 'Enter date',
+    title: 'Tarix seçin',
+    header: 'Tarix daxil edin',
     input: {
-      placeholder: 'Enter date',
+      placeholder: 'Tarix daxil edin',
     },
   },
   noDataText: 'Bu görüntüdə məlumat yoxdur.',
